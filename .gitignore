@@ -1,0 +1,17 @@
+node_modules
+.env.local
+.env.*.local
+.next
+dist
+build
+*.pem
+.DS_Store
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.env
+.env.production.local
+yarn-error.log
+npm-debug.log
